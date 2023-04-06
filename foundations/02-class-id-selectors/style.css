@@ -1,0 +1,16 @@
+.class {
+    background-color: #FFC0CB;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#blue-text {
+    color: #0000FF;
+    font-size: 36px;
+}
+.big-font {
+    font-size: 24px;
+}
+#green-text {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
